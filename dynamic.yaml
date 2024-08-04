@@ -6,4 +6,5 @@
     ansible.builtin.dnf:
       name: postfix
       state: latest
-      
+      name: nginx
+      state: latest
