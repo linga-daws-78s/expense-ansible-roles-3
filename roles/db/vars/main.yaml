@@ -1,0 +1,5 @@
+login_user: root
+login_host: db.lingaiah.online
+mysql_root_password: ExpenseApp@1
+
+
