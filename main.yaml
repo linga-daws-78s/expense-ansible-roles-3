@@ -1,4 +1,4 @@
-- name: configure {{ component }}DB Server
+- name: configure {{ component }} Server
   hosts: "{{ component }}"
   become: yes
   roles:

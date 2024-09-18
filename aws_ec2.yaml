@@ -9,9 +9,10 @@ keyed_groups:
 
 
 filters:
- tag:Name: "backend*"
+ tag:Name: "Backend*"
 
 compose:
-  ansible_hosts: private_ip_address
+  # This sets the ansible_host variable to connect with the private IP without changing the hostname.
+  ansible_host: private_ip_address
 
 
