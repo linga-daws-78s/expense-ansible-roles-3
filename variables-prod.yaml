@@ -1,0 +1,8 @@
+login_user: root
+login_host: db-prod.lingaiah.online
+login_password: ExpenseApp@1
+DB_HOST: db-prod.lingaiah.online
+BACKEND_API_URL: backend.app-prod.lingaiah.online
+
+
+#nexus_url: nexus.lingaiah.online:8081
